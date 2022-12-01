@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with
   - international logistics for import/export of long-range wifi and radio antennas in the EMEA region
 - 📫 How to reach me:
-  - <a rel="me" href="https://discuss.systems/@mahdi">Mastodon</a>
+  - <a target="_blank" rel="me" href="https://discuss.systems/@mahdi">Mastodon</a>
 - ⚡ Fun fact:
   - just because you can't ~s~ee something, doesn't mean it isn't there
 
