@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning
   - Rust
   - containerd
-  - Linux kernel features
-  - Bottlerocket OS
+  - infrastructure and system reliability
   - performance testing and analysis
 - 👯 I’m looking to collaborate on
   - furthering learning, exploration, and discovery <a target="_blank" href="https://www.youtube.com/watch?v=sJf2vP8FwTU&t=19s">:)</a>
@@ -15,6 +14,7 @@
   - international logistics for import/export of long-range wifi and radio antennas in the EMEA region
 - 📫 How to reach me:
   - <a target="_blank" rel="me" href="https://discuss.systems/@mahdi">Mastodon</a>
+  - <a target="_blank" rel="me" href="https://x.com/mahdimc">X/Twitter</a>
 - ⚡ Fun fact:
   - just because you can't ~s~ee something, doesn't mean it isn't there
 
