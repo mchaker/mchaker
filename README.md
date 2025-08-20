@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on
   - empowering users
 - 🌱 I’m currently learning
-  - Rust
-  - containerd
   - infrastructure and system reliability
   - performance testing and analysis
 - 👯 I’m looking to collaborate on
